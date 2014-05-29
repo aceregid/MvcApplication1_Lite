@@ -1,0 +1,45 @@
+C:\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\bin\MvcApplication1.dll
+C:\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\bin\MvcApplication1.pdb
+C:\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\bin\EntityFramework.dll
+C:\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\bin\EntityFramework.xml
+C:\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll
+C:\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb
+C:\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\bin\System.Web.Mvc.dll
+C:\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\bin\System.Web.Mvc.xml
+D:\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\bin\MvcApplication1.dll
+D:\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\bin\MvcApplication1.pdb
+D:\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\bin\EntityFramework.dll
+D:\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\bin\System.Web.Mvc.dll
+D:\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\bin\EntityFramework.xml
+D:\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\bin\System.Web.Mvc.xml
+D:\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll
+D:\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb
+E:\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\bin\MvcApplication1.dll
+E:\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\bin\MvcApplication1.pdb
+E:\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\bin\EntityFramework.dll
+E:\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\bin\System.Web.Mvc.dll
+E:\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\bin\EntityFramework.xml
+E:\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\bin\System.Web.Mvc.xml
+E:\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll
+E:\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb
+E:\Visual Studio 2010\Projects\MvcApplication1_испорчен_не удалять\MvcApplication1\bin\MvcApplication1.dll
+E:\Visual Studio 2010\Projects\MvcApplication1_испорчен_не удалять\MvcApplication1\bin\MvcApplication1.pdb
+E:\Visual Studio 2010\Projects\MvcApplication1_испорчен_не удалять\MvcApplication1\bin\EntityFramework.dll
+E:\Visual Studio 2010\Projects\MvcApplication1_испорчен_не удалять\MvcApplication1\bin\System.Web.Mvc.dll
+E:\Visual Studio 2010\Projects\MvcApplication1_испорчен_не удалять\MvcApplication1\bin\EntityFramework.xml
+E:\Visual Studio 2010\Projects\MvcApplication1_испорчен_не удалять\MvcApplication1\bin\System.Web.Mvc.xml
+E:\Visual Studio 2010\Projects\MvcApplication1_испорчен_не удалять\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2010\Projects\MvcApplication1_испорчен_не удалять\MvcApplication1\obj\Debug\MvcApplication1.dll
+E:\Visual Studio 2010\Projects\MvcApplication1_испорчен_не удалять\MvcApplication1\obj\Debug\MvcApplication1.pdb
+E:\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2010\Projects\MvcApplication1_Lite\MvcApplication1\bin\MvcApplication1.dll
+E:\Visual Studio 2010\Projects\MvcApplication1_Lite\MvcApplication1\bin\MvcApplication1.pdb
+E:\Visual Studio 2010\Projects\MvcApplication1_Lite\MvcApplication1\bin\EntityFramework.dll
+E:\Visual Studio 2010\Projects\MvcApplication1_Lite\MvcApplication1\bin\System.Web.Mvc.dll
+E:\Visual Studio 2010\Projects\MvcApplication1_Lite\MvcApplication1\bin\EntityFramework.xml
+E:\Visual Studio 2010\Projects\MvcApplication1_Lite\MvcApplication1\bin\System.Web.Mvc.xml
+E:\Visual Studio 2010\Projects\MvcApplication1_Lite\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2010\Projects\MvcApplication1_Lite\MvcApplication1\obj\Debug\MvcApplication1.dll
+E:\Visual Studio 2010\Projects\MvcApplication1_Lite\MvcApplication1\obj\Debug\MvcApplication1.pdb
